@@ -13,7 +13,7 @@
 <br>
 
 <h3>О задаче:</h3>
-Нужно было реализовать фильтры, подобно фильтрам Авито, использовались моковые данные.
+Нужно было реализовать фильтры, подобно фильтрам Авито, использовались моковые данные: https://github.com/DiTsukanova/nested-filters/blob/master/src/data/categories.json
 
 <h3>Ознакомится с проектом можно по ссылке:</h3>
 https://ditsukanova.github.io/nested-filters/
